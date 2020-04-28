@@ -1,2 +1,0 @@
-# RTDPluginforHlias
-for Hlias
